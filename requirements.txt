@@ -1,0 +1,6 @@
+numpy>=1.24
+scikit-learn>=1.3
+
+# 若要串接真實廣告平台API，另外安裝：
+# facebook_business>=19.0.0   # Facebook Marketing API
+# google-ads>=23.0.0          # Google Ads API
